@@ -1,0 +1,18 @@
+  body{
+    text-align: center;
+    padding-top: 100px;
+  }  
+  .row{
+   margin:80px;
+  }
+.miestilo{
+  color:rgba(25, 0, 255, 0.877);
+  font-size: 60px;
+
+}
+.interruptor{
+  background-color: pink;
+  font-size: 20px;
+  color:white;
+}
+ 
